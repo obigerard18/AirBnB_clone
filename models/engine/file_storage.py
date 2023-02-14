@@ -127,5 +127,5 @@ class FileStorage:
                 {"place_id": str,
                              "user_id": str,
                              "text": str}
-    }
-    return attributes
+            }
+            return attributes
